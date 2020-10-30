@@ -1,0 +1,22 @@
+Topic: Machine learning Applied to the Detection of Retinal Blood Vessels 
+
+Group no: 8
+2. Achal Paliwal (A1)
+15. Hitesh Sharma (A1)
+16. Jai Sharma (A1)
+34 .Prashant Agrawal (A1)
+
+Objective: To use machine learning to detect the retinal blood vessel in the human eye.
+Dataset: https://www.dropbox.com/sh/z4hbbzqai0ilqht/AAARqnQhjq3wQcSVFNR__6xNa?dl=0
+
+Expected Algorithm: 	1. K-Nearset neighbors algorithm(K-NN)
+			2. Support vector machine(SVM)
+
+Expected Outcome: it will predict the percentages of the blood vessel present in the eye or not.
+
+Application:-
+1.The morphological changes of the retinal blood vessels in retinal images are important indicators for diseases like diabetes, hypertension and glaucoma.
+2.It reduces the workload of the ophthalmologists and may assist in characterizing the retinal diseases.
+3.It provide information about the blood supply system of the retina.
+4.The registraion of retinal images of the same patient taken over period of time. The registered images are useful in monitering the progression of disease and to observe the effect of treatment.
+
